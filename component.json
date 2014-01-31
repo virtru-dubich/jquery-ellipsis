@@ -1,0 +1,12 @@
+{
+  "name": "jquery-ellipsis",
+  "repo":"virtru-components/jquery-ellipsis",
+  "description": "Ellipsis plugin for jquery",
+  "version": "1.0.10",
+  "dependencies": {
+    "components/jquery": "*"
+  },
+  "scripts": [
+  "index.js"
+  ]
+}
