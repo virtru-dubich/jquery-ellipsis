@@ -4,7 +4,7 @@
   "description": "Ellipsis plugin for jquery",
   "version": "1.0.11",
   "dependencies": {
-    "components/jquery": "2.1.0"
+    "virtru-components/jquery": "2.1.0"
   },
   "scripts": [
   "index.js"
