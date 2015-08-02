@@ -1,0 +1,8 @@
+{
+  "name": "jquery-ellipsis",
+  "description": "Ellipsis plugin for jquery",
+  "version": "1.0.12",
+  "dependencies": {
+    "virtru-components/jquery": "2.1.1"
+  }
+}
